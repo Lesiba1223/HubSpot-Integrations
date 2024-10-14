@@ -1,0 +1,6 @@
+@HubSpot_Integrations_HostAddress = http://localhost:5191
+
+GET {{HubSpot_Integrations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
